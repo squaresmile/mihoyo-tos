@@ -1,16 +1,16 @@
 PRIVACY POLICY
 
-Effective Date: March 17th, 2021
+Effective Date: January 5, 2022
 
 
 
-miHoYo Limited ("miHoYo", "we", "our", or "us") greatly recognizes and values the privacy of people ("you" or "User") who visit our websites, use or access our games, whether played on mobile devices, PCs, our websites or other approved platforms ("miHoYo Game(s)"), and/or otherwise use or access any of our provided services, including but not limited to customer support, marketing and advertising, and community services (collectively the "miHoYo Services" or "our services").
+COGNOSPHERE PTE. LTD. ("COGNOSPHERE", "we", "our", or "us") greatly recognizes and values the privacy of people ("you" or "User") who visit our websites, use or access our games, whether played on mobile devices, PCs, our websites or other approved platforms ("COGNOSPHERE Game(s)"), and/or otherwise use or access any of our provided services, including but not limited to customer support, marketing and advertising, and community services (collectively the "COGNOSPHERE Services" or "our services").
 
-The minimum age to create a miHoYo user account is 13 ("Account"). Insofar as certain countries or platforms apply a higher age of consent for the collection of personal data, miHoYo requires parental or guardian consent before an Account is created and personal data associated with it is collected.
+The minimum age to create a user account ("Account") is 13. Insofar as certain countries or platforms apply a higher age of consent for the collection of personal data, COGNOSPHERE requires parental or guardian consent before an Account is created and personal data associated with it is collected.
 
-This Privacy Policy applies to any and all of the miHoYo Services and describes why and how we collect, store, and use your personal data, and the choices and rights you have about the personal data you provide or we collect in connection with the miHoYo Services. By accessing our websites or otherwise using the miHoYo Services, you acknowledge that you have read, understood and accepted the following terms. In the case you do not agree to any of the terms, some basic functions in the miHoYo Game(s) may not be able to run normally, which may prevent you from using them.
+This Privacy Policy applies to any and all of the COGNOSPHERE Services and describes why and how we collect, store, and use your personal data, and the choices and rights you have about the personal data you provide or we collect in connection with the COGNOSPHERE Services. By accessing our websites or otherwise using the COGNOSPHERE Services, you acknowledge that you have read, understood and accepted the following terms. In the case you do not agree to any of the terms, some basic functions in the COGNOSPHERE Game(s) may not be able to run normally, which may prevent you from using them.
 
-In the event of a merger, acquisition, reorganization, bankruptcy or other similar event, we will make an announcement in advance, disclose the details of the event and information about the successor, and with the express consent of you and/or your parent and/or guardian (if applicable) again, your personal data may transfer to the successor of miHoYo. miHoYo may periodically modify, adjust or revise the terms of this Privacy Policy. We will announce to you the updated terms and obtain your consent (and/or the consent of your parent/guardian, if applicable) again. You acknowledge and agree to check the updated terms regularly. If major clause changes are involved, we will make an announcement in advance.
+In the event of a merger, acquisition, reorganization, bankruptcy or other similar event, we will make an announcement in advance, disclose the details of the event and information about the successor, and with the express consent of you and/or your parent and/or guardian (if applicable) again, your personal data may transfer to the successor. COGNOSPHERE may periodically modify, adjust or revise the terms of this Privacy Policy. We will announce to you the updated terms and obtain your consent (and/or the consent of your parent/guardian, if applicable) again. You acknowledge and agree to check the updated terms regularly. If major clause changes are involved, we will make an announcement in advance.
 
 
 
@@ -20,19 +20,19 @@ Personal data means data that may be used to identify an individual, such as ema
 
 (1) Data We Collect (either directly or through a third-party)
 
-i. Account Registration Information: miHoYo account information, namely, username, email address, password, and verification code. We use this information to create the account for your usage of our services as you request, to store your game data and gameplay progress, to analyze and manage our services for system administration, and to provide great services in accordance with Article 2(2) and 2(9) in "Why We Collect Your Personal Data" ("Article 2") of this Privacy Policy on the legal basis of performing our contract with you to provide our services ("Service Provision").
+i. Account Registration Information: account information, namely, username, email address, and password. We use this information to provide game login services, to store your game data and gameplay progress, to analyze and manage our services for system administration, and to provide great services in accordance with Article 2(2) and 2(9) in "Why We Collect and Process Your Personal Data" ("Article 2") of this Privacy Policy on the legal basis of performing our contract with you to provide our services ("Service Provision").
 
 ii. Date of Birth. We only receive this information if you voluntarily provide it when using our services in accordance with Article 2(4) on the legal basis that it is collected with your consent ("with consent"), and we use this information to verify your age if you are a user in certain regions. Since we cannot verify the authenticity of your age, your self-reported age will be deemed as the basis for judgment.
 
 iii. Telephone Number or Email Address. We only receive such information if you voluntarily provide it to us for linking your Account with your telephone number and/or email address, logging in to our services, receiving updates of our services and receiving verification codes by email or SMS for password changing or other purposes in accordance with Article 2(1) and 2(8) with consent.
 
-iv. User Generated Content: Nickname, signature, and chat data (solely in the form of text). We use this information to deliver your messages to other users for social interaction in-game and facilitate your communication with them in accordance with Article 2(7) and 2(9) on the legal basis of Service Provision.
+iv. User Generated Content: nickname, signature, and chat data (solely in the form of text). We use this information to deliver your messages to other users for social interaction in-game and facilitate your communication with them in accordance with Article 2(7) and 2(9) on the legal basis of Service Provision.
 
 v. User Service Information. Any information that you provide in communications with our support team when you seek our technical and/or customer service support and/or exercise any of your legal rights as the data subject; in case of receiving your request for support, we use such information to provide relevant support as you request and further improve our services in accordance with Article 2(10) on the legal basis of Service Provision; in case of receiving your request for data access as the data subject, we use such information to verify the requestor's identity to ensure that he/she is the person legally entitled to make the data access request in accordance with Article 2(9) on the legal basis that it is necessary to perform our legitimate obligations as the data controller ("Obligation Performance").
 
 vi. Survey Information. The content of your survey responses. If you agree to participate in such surveys, we use this information to improve our services in accordance with Article 2(8) with consent.
 
-vii. Sweepstakes Participation Information: Name, email address, telephone number, mailing address, UID, nickname, and country/region. If you agree to participate in such sweepstakes and win any prizes, we use your UID, address and other information as necessary to provide digital prizes and/or deliver physical prizes, as well as announce your UID and/or nickname in a partially-redacted format in accordance with Article 2(4) with consent. For users who have not won any prizes, we will not announce or display the above information in any form.
+vii. Sweepstakes Participation Information: name, email address, telephone number, mailing address, UID, nickname, and country/region. If you agree to participate in such sweepstakes and win any prizes, we use your UID, address and other information as necessary to provide digital prizes and/or deliver physical prizes, as well as announce your UID and/or nickname in a partially-redacted format in accordance with Article 2(4) with consent. For users who have not won any prizes, we will not announce or display the above information in any form.
 
 viii. Internet Protocol (IP) Address. We use this information to allow you to connect to our servers in accordance with Article 2(1).
 
@@ -68,7 +68,7 @@ vii. Malicious Content Information. Nickname, signature, chat data (solely in th
 
 2. Why We Collect and Process Your Personal Data
 
-In order to provide services, perform the Terms of Service and/or any other agreements between you and miHoYo, and/or perform the legal liabilities under the applicable laws, we collect and process your personal data to:
+In order to provide services, perform the Terms of Service and/or any other agreements between you and COGNOSPHERE, and/or perform the legal liabilities under the applicable laws, we collect and process your personal data to:
 
 (1) allow you to access or restrict your access to our services;
 
@@ -90,7 +90,7 @@ In order to provide services, perform the Terms of Service and/or any other agre
 
 (10) track your process across our websites and applications to verify that you are not a bot and to optimize our services.
 
-For the purposes set forth above, our affiliates may be commissioned to process your information, provided that such affiliates comply with the terms and conditions hereunder. Affiliates in this Privacy Policy shall mean an entity that directly or indirectly controls, is controlled by or is under common control with miHoYo Limited hereto.
+For the purposes set forth above, our affiliates may be commissioned to process your information, provided that such affiliates comply with the terms and conditions hereunder. Affiliates in this Privacy Policy shall mean an entity that directly or indirectly controls, is controlled by or is under common control with COGNOSPHERE PTE. LTD. hereto.
 
 In all of the above cases and purposes, you acknowledge and confirm that we may analyze, profile, segment, merge and/or update all collected data (regardless of an aggregated or individualized manner) for the purposes of improving service quality and providing a better experience.
 
@@ -136,7 +136,7 @@ We or our authorized contractors may use cookies and similar technologies to pro
 
 5. Who May Access Your Personal Data
 
-In addition to miHoYo and/or its affiliates, other parties may also access your personal data in the following situations. You acknowledge that you have foreseen and agreed to the occurrence of such disclosure when you provide your personal data.
+In addition to COGNOSPHERE and/or its affiliates, other parties may also access your personal data in the following situations. You acknowledge that you have foreseen and agreed to the occurrence of such disclosure when you provide your personal data.
 
 (1) Other In-Game Users of Our Services
 
@@ -150,7 +150,7 @@ In addition to be required by applicable laws, we reserve the right to disclose 
 
 (3) Third-Party Contractors
 
-miHoYo works with a number of (if any) third parties on or through our services to help us provide services and functionalities to you. We do not sell your personal data and only share data that is non-personally identifiable on its own, aggregated, or public with third-parties under the following necessary circumstances, and such third-parties thereof are prevented from processing (including but not limited to accessing, storing, using, or disclosing) your personal data except for achieving the purpose of their cooperation with us:
+COGNOSPHERE works with a number of (if any) third parties on or through our services to help us provide services and functionalities to you. We do not sell your personal data and only share data that is non-personally identifiable on its own, aggregated, or public with third-parties under the following necessary circumstances, and such third-parties thereof are prevented from processing (including but not limited to accessing, storing, using, or disclosing) your personal data except for achieving the purpose of their cooperation with us:
 
 i. Social networking portals who provide login and/or content-sharing service to and in our services;
 
@@ -160,9 +160,11 @@ iii. Information communication service providers who provide SMS-messaging servi
 
 iv. Payment service providers who provide payment services, such as assisting our services to run on, facilitating users' payment, and maintaining a record of the users' transaction history;
 
-v. Advertising service contractors who provide marketing and advertising activities, including conducting the programs, tracking the success, and analyzing the effect thereof; and
+v. Advertising service contractors who provide marketing and advertising activities, including conducting the programs, tracking the success, and analyzing the effect thereof;
 
-vi. Other contractors if any for the purpose of providing our services to you.
+vi. Information technology service provider who provide technology support for account management; and
+
+vii. Other contractors if any for the purpose of providing our services to you.
 
 Besides, such contractors may use cookies, web beacons, and/or other tracking technologies to collect or receive data about you and might claim the data controller rights over your personal data. For example, users purchasing and/or subscribing products or services will be required to provide additional data to third-party payment contractors, such as a valid credit card number and expiration date. Such third-party payment contractors may collect, process and retain your data to process payments and resolve subsequent payment disputes and inquiries. We may also receive, process and store the provided information from you and/or such third-party payment contractors to confirm payment, record purchase history and/or protect our legitimate interest when resolving subsequent payment disputes and inquiries. Notwithstanding the foregoing, if you make any payments in using our services, any of your payment details are fully handled by the relevant payment service provider. We do not, however, receive and/or process any of your actual payment details such as card number or security code. We only keep the data concerning transaction date, currency, cost, and product(s) purchased.
 
@@ -172,7 +174,7 @@ Each third-party has its own privacy policy and security measures for processing
 
 6. Data Retention
 
-We will keep your data only for as long as your account is active or only for as needed to provide you the miHoYo game services unless deleted in accordance with your request or as otherwise required by law. The locations of servers for the game services include:
+We will keep your data only for as long as your account is active or only for as needed to provide you the game services unless deleted in accordance with your request or as otherwise required by law. The locations of servers for the game services include:
 
 (1) the United States, in which the CCPA (short for "the California Consumer Privacy Act of 2018") and the COPPA (short for "Children's Online Privacy Protection Act") shall govern our services conducted as stipulated in this Privacy Policy;
 
@@ -190,11 +192,11 @@ We will only store your information as long as necessary to fulfil the purposes 
 
 7. Your Rights
 
-If you request in writing, we will provide you a copy of your personal data in an electronic format after passing our verification process. You also have the right to correct or modify your data, have your data deleted, object how we use or share your data, restrict how we use or share your data, and make any other request as provided herein or regulated in the applicable regulations from authorities (including but not limited to the GDPR and the CCPA) through sending an email to the email address of our DPO (Data Protection Officer) as agreed in Article 10. Upon receiving your request via email, we will promptly conduct a verification process including but not limited to instructing you to provide information to confirm that you are the user from whom we have collected information, subject to the specific instructions of our DPO. Regarding the submission of your request, you may also choose to log into our support page at https://genshin.mihoyo.com.
+If you request in writing, we will provide you a copy of your personal data in an electronic format after passing our verification process. You also have the right to correct or modify your data, have your data deleted, object how we use or share your data, restrict how we use or share your data, and make any other request as provided herein or regulated in the applicable regulations from authorities (including but not limited to the GDPR and the CCPA) through sending an email to the email address of our DPO (Data Protection Officer) as agreed in Article 10. Upon receiving your request via email, we will promptly conduct a verification process including but not limited to instructing you to provide information to confirm that you are the user from whom we have collected information, subject to the specific instructions of our DPO. Regarding the submission of your request, you may also choose to log into our support page at the official website of Genshin Impact.
 
 (1) Right to Know About Personal Information Collected, Disclosed, or Sold
 
-You have the right to access your personal data that we hold about you, i.e. the right to require free of charge, (i) information whether your personal data is collected, used, disclosed, or sold, (ii) categories of your personal data which has been collected in the preceding 12 months, (iii) categories of sources from which your personal data is collected, (iv) business or commercial purpose for collecting or selling your personal data (if any), (v) disclosure of sale of your personal data (if any): i.e. the categories of your personal data which has been disclosed or sold (if any) to third-parties in the preceding 12 months, the categories of third parties to whom your personal data was disclosed or sold (if any), statement regarding whether we have actual knowledge that we sell your personal data if you are under 16 years of age; and you have the right to require us to provide a duplicate of your personal data undergoing processing, subject to submitting a verifiable request in the form of email to our DPO's email address as agreed in Article 10. You can also exercise the right to access your personal data through the privacy dashboard. According to our reasonable and unilateral judgement, if your verifiable request affects or will affect the rights or freedom of other users or is manifestly unfounded or excessive, we reserve the right to charge a reasonable fee (taking into account the administrative costs arising therefrom) or refuse to act on the request.
+You have the right to access your personal data that we hold about you, i.e. the right to require free of charge, (i) information whether your personal data is collected, used, disclosed, or sold, (ii) categories of your personal data which has been collected, (iii) categories of sources from which your personal data is collected, (iv) business or commercial purpose for collecting or selling your personal data (if any), (v) disclosure of sale of your personal data (if any): i.e. the categories of your personal data which has been disclosed or sold (if any) to third-parties, the categories of third parties to whom your personal data was disclosed or sold (if any), statement regarding whether we have actual knowledge that we sell your personal data if you are under 16 years of age; and you have the right to require us to provide a duplicate of your personal data undergoing processing, subject to submitting a verifiable request in the form of email to our DPO's email address as agreed in Article 10. You can also exercise the right to access your personal data through the privacy dashboard. According to our reasonable and unilateral judgement, if your verifiable request affects or will affect the rights or freedom of other users or is manifestly unfounded or excessive, we reserve the right to charge a reasonable fee (taking into account the administrative costs arising therefrom) or refuse to act on the request.
 
 (2) Right to Rectify
 
@@ -204,7 +206,7 @@ If we process your personal data, we shall endeavor to ensure by implementing su
 
 You have the right to obtain deletion of your personal data, if the reason as stated in Article 2 of this Privacy Policy does not exist anymore, or if there is another legal ground for its deletion, subject to submitting a verifiable request in the form of sending an email to our DPO's email address as agreed in Article 10.
 
-You acknowledge and agree that as a result of deleting your miHoYo account, you will lose access to miHoYo's services, including the miHoYo account, subscriptions and game-related information linked to such account and lose the possibility to access other services through the miHoYo account.
+You acknowledge and agree that as a result of deleting your Account, you will lose access to game related services, including the Account, subscriptions and game-related information linked to such Account and lose the possibility to access other services through the Account.
 
 (4) Right to Object
 
@@ -248,7 +250,7 @@ Please be aware that advertisers or websites with links to and/or from our websi
 
 9. Age Limits and Children Protection
 
-You represent that you are an adult or older in your country of residence (or at other age in your jurisdiction where you are classified as a majority) when using our services. If you are a minor child or under the legal age of majority ("Minor" or "Children"), please do not send any personal data about yourself to us, including your name, address, telephone number, or email address.
+You represent that you are an adult or older in your country of residence (or at other age in your jurisdiction where you are classified as a majority) when using our services. If you are a minor child or under the legal age of majority ("Minor" or "Child"), please do not send any personal data about yourself to us, including your name, address, telephone number, or email address.
 
 Notwithstanding the foregoing, we recognize that we have a special obligation to protect children in regards to the collection and processing of personal data, and we do not and will not knowingly collect personal data from children without consent from their parents or guardians. We strongly urge parents and guardians to instruct their children never to disclose or give out their personal data when using our services without the prior permission of their parent/guardian. If we learn that we have collected personal data about a child, we will delete that data as quickly as possible. Also, if you believe that we might have any data from or about a child, please contact us at our DPO's email.
 
@@ -260,5 +262,5 @@ For the purpose of establishing the personal data protection in a better and mor
 
 
 
-miHoYo Limited
-Last Updated: March 17th, 2021
+COGNOSPHERE PTE.LTD.
+Last Updated: January 5, 2022
