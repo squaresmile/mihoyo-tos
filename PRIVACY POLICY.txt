@@ -1,6 +1,6 @@
 PRIVACY POLICY
 
-Effective Date: February 16, 2022
+Effective Date: May 31, 2022
 
 
 
@@ -26,7 +26,7 @@ ii. Date of Birth. We only receive this information if you voluntarily provide i
 
 iii. Telephone Number or Email Address. We only receive such information if you voluntarily provide it to us for linking your Account with your telephone number and/or email address, logging in to our services, receiving updates of our services and receiving verification codes by email or SMS for password changing or other purposes in accordance with Article 2(1) and 2(8) with consent.
 
-iv. User Generated Content: nickname, signature, and chat data (solely in the form of text). We use this information to deliver your messages to other users for social interaction in-game and facilitate your communication with them in accordance with Article 2(7) and 2(9) on the legal basis of Service Provision.
+iv. User Generated Content: nickname, signature, chat data (solely in the form of text), and text content in the clipboard. We use this information to enable you to use the clipboard function, deliver your messages to other users for social interaction in-game and facilitate your communication with them in accordance with Article 2(7), 2(11) on the legal basis of Service Provision.
 
 v. User Service Information. Any information that you provide in communications with our support team when you seek our technical and/or customer service support and/or exercise any of your legal rights as the data subject; in case of receiving your request for support, we use such information to provide relevant support as you request and further improve our services in accordance with Article 2(10) on the legal basis of Service Provision; in case of receiving your request for data access as the data subject, we use such information to verify the requestor's identity to ensure that he/she is the person legally entitled to make the data access request in accordance with Article 2(9) on the legal basis that it is necessary to perform our legitimate obligations as the data controller ("Obligation Performance").
 
@@ -39,6 +39,8 @@ viii. Internet Protocol (IP) Address. We use this information to allow you to co
 ix. Connected Social Media Account Information (Third Party). Your social media account information (if you choose to log in to our services via your social media account(s) with the corresponding network(s)); in the case of Facebook, this refers to the username of your Facebook account; we use such information to create your account for using our services in accordance with your request, and to ensure that you may share in-game photos on the corresponding network(s) in accordance with Article 2(9) on the legal basis of Service Provision.
 
 x. Advertising Information. Advertising ID and select device information, we store the Advertising ID for that advertisement and the other device information with your profile to track the success of our advertising and marketing programs in accordance with Article 2(6) and 2(10) on the legal basis that it is in our legitimate interests to monitor the success of our advertising and marketing programs.
+
+xi.Payment data: your name, bank card number, bank card validity period,billing address (country, city, postal code, address), CVV.
 
 In order to better provide you with a complete gaming experience, we may merge and update our collected personal data with data from third-party contractors in order to update your data, perform market analysis, and/or otherwise improve our services.
 
@@ -88,7 +90,9 @@ In order to provide services, perform the Terms of Service and/or any other agre
 
 (9) protect the integrity, safety, and security of our services or users, comply with legal obligations, and enforce compliance with the Terms of Service or other restrictions placed on your use of our services; and/or
 
-(10) track your process across our websites and applications to verify that you are not a bot and to optimize our services.
+(10) track your process across our websites and applications to verify that you are not a bot and to optimize our services;
+
+(11) enable you to use the clipboard function.
 
 For the purposes set forth above, our affiliates may be commissioned to process your information, provided that such affiliates comply with the terms and conditions hereunder. Affiliates in this Privacy Policy shall mean an entity that directly or indirectly controls, is controlled by or is under common control with COGNOSPHERE PTE. LTD. hereto.
 
@@ -164,7 +168,7 @@ v. Advertising service contractors who provide marketing and advertising activit
 
 vi. Other contractors if any for the purpose of providing our services to you.
 
-Besides, such contractors may use cookies, web beacons, and/or other tracking technologies to collect or receive data about you and might claim the data controller rights over your personal data. For example, users purchasing and/or subscribing products or services will be required to provide additional data to third-party payment contractors, such as a valid credit card number and expiration date. Such third-party payment contractors may collect, process and retain your data to process payments and resolve subsequent payment disputes and inquiries. We may also receive, process and store the provided information from you and/or such third-party payment contractors to confirm payment, record purchase history and/or protect our legitimate interest when resolving subsequent payment disputes and inquiries. Notwithstanding the foregoing, if you make any payments in using our services, any of your payment details are fully handled by the relevant payment service provider. We do not, however, receive and/or process any of your actual payment details such as card number or security code. We only keep the data concerning transaction date, currency, cost, and product(s) purchased.
+Besides, such contractors may use cookies, web beacons, and/or other tracking technologies to collect or receive data about you and might claim the data controller rights over your personal data. For example, users purchasing and/or subscribing products or services will be required to provide additional data to third-party payment contractors, such as a valid credit card number and expiration date. Such third-party payment contractors may collect, process and retain your data to process payments and resolve subsequent payment disputes and inquiries. We may also receive, process and store the provided information from you and/or such third-party payment contractors to confirm payment, record purchase history and/or protect our legitimate interest when resolving subsequent payment disputes and inquiries.
 
 Each third-party has its own privacy policy and security measures for processing data and information, so when specific third parties are involved in collecting data and information, please participate in their privacy policies. Since those contractors may access, collect, or process your data as the data controller and operate under their own privacy policies, please refer directly to their privacy policies on their official websites and learn more about their data processing practices.
 
@@ -174,11 +178,13 @@ Each third-party has its own privacy policy and security measures for processing
 
 We will keep your data only for as long as your account is active or only for as needed to provide you the game services unless deleted in accordance with your request or as otherwise required by law. The locations of servers for the game services include:
 
-(1) the United States, in which the CCPA (short for "the California Consumer Privacy Act of 2018") and the COPPA (short for "Children's Online Privacy Protection Act") shall govern our services conducted as stipulated in this Privacy Policy;
+(1) the United States,
 
-(2) Japan; and
+(2) Japan;
 
-(3) the European Union, in which the GDPR (namely "the General Data Protection Regulation" shall govern our services conducted as stipulated in this Privacy Policy.
+(3) the European Union；
+
+(4) Singapore.
 
 You acknowledge and agree that your data will be processed on our servers which may not be located in your country of residence and can be accessed by our support, engineering and/or our affiliates around the world. No matter where our servers are located, we will make great efforts to take the appropriate safeguards to guarantee your rights in conformity with this Privacy Policy and any applicable laws.
 
@@ -256,9 +262,9 @@ Notwithstanding the foregoing, we recognize that we have a special obligation to
 
 10. Contact and Complaints
 
-For the purpose of establishing the personal data protection in a better and more efficient way, we, as the Data Controller, designate a Data Protection Officer (in short, "DPO") who is responsible for the oversight and implementation of the personal data protection strategy and ensures our processing of personal data in compliance with necessary legal requirements stipulated in the applicable laws. If you have any questions about this Privacy Policy or have any requests for resolving issues with your personal data while using our services, please contact us as soon as possible by emailing our DPO at genshin_cs@hoyoverse.com.
+For the purpose of establishing the personal data protection in a better and more efficient way, we, as the Data Controller, designate a Data Protection Officer (in short, "DPO") who is responsible for the oversight and implementation of the personal data protection strategy and ensures our processing of personal data in compliance with necessary legal requirements stipulated in the applicable laws. If you have any questions about this Privacy Policy or have any requests for resolving issues with your personal data while using our services, please contact us as soon as possible by emailing our DPO at privacy@hoyoverse.com.
 
 
 
 COGNOSPHERE PTE. LTD.
-Last Updated: February 16, 2022
+Last Updated: May 31, 2022
