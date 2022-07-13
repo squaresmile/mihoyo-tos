@@ -1,6 +1,6 @@
 PRIVACY POLICY
 
-Effective Date: May 31, 2022
+Effective Date: July 13, 2022
 
 
 
@@ -40,7 +40,9 @@ ix. Connected Social Media Account Information (Third Party). Your social media 
 
 x. Advertising Information. Advertising ID and select device information, we store the Advertising ID for that advertisement and the other device information with your profile to track the success of our advertising and marketing programs in accordance with Article 2(6) and 2(10) on the legal basis that it is in our legitimate interests to monitor the success of our advertising and marketing programs.
 
-xi.Payment data: your name, bank card number, bank card validity period,billing address (country, city, postal code, address), CVV.
+xi.Payment data: your name, bank card number, bank card validity period,billing address (country, city, postal code, address), CVV；
+
+xii．Data of other COGNOSPHERE products: Your account information and behavioral information, such as nickname and activity level of other products of COGNOSPHERE; we use this information to issue questionnaires to you.
 
 In order to better provide you with a complete gaming experience, we may merge and update our collected personal data with data from third-party contractors in order to update your data, perform market analysis, and/or otherwise improve our services.
 
@@ -56,11 +58,11 @@ ii. IP Address. We use this information to allow you to connect to our servers i
 
 iii. Game Data. We use this information to provide you with feedback and information about your gameplay and progress in accordance with Article 2(4) and 2(9) on the legal basis that it is necessary to perform the Terms of Service.
 
-iv. Device Related Information. Device ID, device information (device name, device type, MAC address, IMEI, CPU, graphics card model, OS version and language, time zone, screen DPI, device resolution), registration time and login time; we use such information to improve our services including the functionality of our services in accordance with Article 2(9) and 2(10) on the legal basis that it is our legitimate interest to ensure service security, manage registrations and improve our services.
+iv. Device Related Information. Device serial number, device ID, device information (device name, device type, MAC address, IMEI, CPU, graphics card model, OS version and language, time zone, screen DPI, device resolution), registration time and login time; we use such information to improve our services including the functionality of our services in accordance with Article 2(9) and 2(10) on the legal basis that it is our legitimate interest to ensure service security, manage registrations and improve our services.
 
 v. Bugs, Errors, and Other Data About Crashes and Diagnosis Thereof (if the occasional system crash occurs in our services). Device information (name, model, memory size, and graphics card model) and in-game information (game version, user's UID, stacktrace); we use such information to conduct identity verification for security purposes, to identify and address bugs, and to evaluate and improve the functionality of our services in accordance with Article 2(3) and 2(4) on the legal basis that it is in our legitimate interest to ensure the security of our services, and to improve our services.
 
-vi. Security-Related Information. For the Android version: application information (APK name, version, startup time, process name), user account, device information (model, OS version, brand, CPU structure, root status, the unique identifier of ROM, screen resolution, system startup time, whether an emulator is being operated, the installed APK information, MAC address, network type, names of the running applications, list of file names in the cache directory of SD card application, and Wi-Fi name); for the PC version: application information, memory, executable module, system driver module, new thread, new load module, proxy, network, CPU, disk, and graphics card, account information, and device name, specific file types for specific directory, names of process windows, and name signature of suspicious process module; for the iOS version: application information (module and signature), root status of device; in accordance with Article 2(9) on the legal basis that it is our legitimate interest to ensure the security of our services.
+vi. Security-Related Information. For the Android version: application information (APK name, version, startup time, process name), user account, device information (model, OS version, brand, CPU structure, root status, the unique identifier of ROM, screen resolution, system startup time, whether an emulator is being operated, the installed APK information, MAC address, network type, names of the running applications, list of file names in the cache directory of SD card application, and Wi-Fi name); for the PC version: application information, memory, executable module, system driver module, new thread, new load module, proxy, network, CPU, disk, and graphics card, account information, and device name, specific file types for specific directory, names of process windows, and name signature of suspicious process module, game identification information, game version, hardware and operating system information, application program list, current running task information, security authentication machine code, game and non-game abnormal process information, game operation-related calling methods and information, whether there are other external programs on the game interface, the record and data of the game attempted/accessed by the external program, the plug-in and file information related to the operation of the game, the impact of the external program information on the game; for the iOS version: application information (module and signature), root status of device; in accordance with Article 2(9) on the legal basis that it is our legitimate interest to ensure the security of our services.
 
 You know and understand that since there are multiple versions of the game, the above information is collected for the purpose of adapting, developing and updating for devices of different versions.
 
@@ -86,13 +88,21 @@ In order to provide services, perform the Terms of Service and/or any other agre
 
 (7) communicate with other users and take action against violations;
 
-(8) personalize your experience, keep you up to date with the latest product announcements, provide software verification, upgrades and administration, notify of special events, offer to participate in our surveys or activities, and provide other information pertaining to our services;
+(8) personalize your experience, keep you up to date with the latest product announcements;
 
 (9) protect the integrity, safety, and security of our services or users, comply with legal obligations, and enforce compliance with the Terms of Service or other restrictions placed on your use of our services; and/or
 
 (10) track your process across our websites and applications to verify that you are not a bot and to optimize our services;
 
-(11) enable you to use the clipboard function.
+(11) enable you to use the clipboard function；
+
+(12）invite your participation in our surveys or activities；
+
+(13）keep you up-to-date with the latest product announcements and other information pertaining to our services；
+
+(14）provide software verification, upgrades, and administration.
+
+
 
 For the purposes set forth above, our affiliates may be commissioned to process your information, provided that such affiliates comply with the terms and conditions hereunder. Affiliates in this Privacy Policy shall mean an entity that directly or indirectly controls, is controlled by or is under common control with COGNOSPHERE PTE. LTD. hereto.
 
@@ -267,4 +277,4 @@ For the purpose of establishing the personal data protection in a better and mor
 
 
 COGNOSPHERE PTE. LTD.
-Last Updated: May 31, 2022
+Last Updated: July 13 , 2022
