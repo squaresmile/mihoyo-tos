@@ -1,6 +1,6 @@
 TERMS OF SERVICE
 
-Effective Date: October 14, 2022
+Effective Date: December 7, 2022
 
 
 
@@ -10,15 +10,15 @@ This Terms of Service ("Agreement") is a legally binding agreement between COGNO
 
 In particular, we draw your attention to some important terms in this Agreement. By accepting this Agreement:
 
-·    You agree to COGNOSPHERE rules and policies that are expressly incorporated into this Agreement, including our Privacy Policy, which explains what Information we collect from you and how we protect it.
+·  You agree to COGNOSPHERE rules and policies that are expressly incorporated into this Agreement, including our Privacy Policy, which explains what Information we collect from you and how we protect it.
 
-·    You agree that you use the COGNOSPHERE Services at your own risk, and that COGNOSPHERE's liability to you is limited as set forth in Section 12 below.
+·  You agree that you use the COGNOSPHERE Services at your own risk, and that COGNOSPHERE's liability to you is limited as set forth in Section 12 below.
 
-·    You agree to resolve disputes between you and COGNOSPHERE in individual arbitration, and not in court, as set forth in Sections 19 and 19A below. We have put this up front, bold, and in all caps due to its importance:
+·  You agree to resolve disputes between you and COGNOSPHERE in individual arbitration, and not in court, as set forth in Sections 19 and 19A below. We have put this up front, bold, and in all caps due to its importance:
 
 THIS AGREEMENT CONTAINS A BINDING ARBITRATION AGREEMENT AND CLASS ACTION WAIVER IN SECTIONS 19 AND 19A BELOW. EXCEPT FOR CERTAIN TYPES OF DISPUTES SPECIFICALLY DESCRIBED IN THOSE SECTIONS, YOU AND COGNOSPHERE AGREE TO RESOLVE DISPUTES BY BINDING, INDIVIDUAL ARBITRATION, AND GIVE UP THE RIGHT TO GO TO COURT INDIVIDUALLY OR AS PART OF A CLASS ACTION. YOU AND COGNOSPHERE FURTHER WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION. YOU HAVE A TIME-LIMITED RIGHT TO OPT OUT OF THIS WAIVER, AS EXPLAINED IN SECTIONS 19 AND 19A BELOW.
 
-·    You agree that to enter into this Agreement, you are an adult of legal age of majority in your country of residence, and you are legally and financially responsible for all actions using or accessing the COGNOSPHERE Services. BY ACCEPTING THIS AGREEMENT, YOU AFFIRM THAT YOU HAVE REACHED THE LEGAL AGE OF MAJORITY AND UNDERSTAND THIS AGREEMENT, INCLUDING THE TERMS GOVERNING DISPUTE RESOLUTION CONTAINED IN SECTIONS 19 AND 19A.
+·  You agree that to enter into this Agreement, you are an adult of legal age of majority in your country of residence, and you are legally and financially responsible for all actions using or accessing the COGNOSPHERE Services. BY ACCEPTING THIS AGREEMENT, YOU AFFIRM THAT YOU HAVE REACHED THE LEGAL AGE OF MAJORITY AND UNDERSTAND THIS AGREEMENT, INCLUDING THE TERMS GOVERNING DISPUTE RESOLUTION CONTAINED IN SECTIONS 19 AND 19A.
 
 NOTE FOR PARENTS AND GUARDIANS: YOU SHOULD NEVER ALLOW CHILDREN IN YOUR CARE TO USE ANY OF THE SERVICES WHILE UNSUPERVISED. PLEASE ENSURE THAT YOUR CHILDREN DO NOT GIVE OUT TOO MUCH PERSONAL INFORMATION, AND THAT THEY UNDERSTAND HOW TO USE THE SERVICES SAFELY.
 
@@ -346,7 +346,7 @@ You or COGNOSPHERE may initiate arbitration in the federal judicial district tha
 
 Notwithstanding the foregoing, each party retains the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation, or violation of a party's copyrights, trademarks, trade secrets, patents, or other intellectual property rights (an "Intellectual Property Action"), and each party reserves the right to bring an action in any court of competent jurisdiction to stop and/or seek compensation for the intentional or willful misuse or abuse (e.g. hacking or falsifying location) of their intellectual property.
 
-b. Informal Resolution. You agree that in the event of any Dispute, COGNOSPHERE and you shall first attempt to resolve any such Dispute informally for a period no less than thirty (30) calendar days before initiating arbitration proceedings. The informal Dispute resolution process shall be deemed to have begun upon the receipt of written notice from one party to the other ("Written Notice of Dispute"). The Written Notice of Dispute must include the full name and contact information of the complainant, describe the nature and basis of the Dispute, and set for the relief sought. The Written Notice of Dispute shall be sent to genshin_notice@hoyoverse.com.
+b. Informal Resolution. You agree that in the event of any Dispute, COGNOSPHERE and you shall first attempt to resolve any such Dispute informally for a period no less than thirty (30) calendar days before initiating arbitration proceedings. The informal Dispute resolution process shall be deemed to have begun upon the receipt of written notice from one party to the other ("Written Notice of Dispute"). The Written Notice of Dispute must include the full name and contact information of the complainant, describe the nature and basis of the Dispute, and set for the relief sought. The Written Notice of Dispute shall be sent to COGNOSPHERE PTE. LTD. 405 E Laburnum Ave, Ste 3 PMB 109, Richmond, VA 23222.
 
 In the event that any such Dispute cannot be resolved informally, you agree that the Dispute, including any question regarding the arbitrability of the Dispute, shall be finally and exclusively resolved by binding arbitration in accordance with subsection (a) of Section 19A above.
 
@@ -356,7 +356,7 @@ d. Right to Waive. Any rights and limitations set forth in this Dispute Resoluti
 
 e. Exclusions from Arbitration/Right to Opt-out. Notwithstanding the above, you and COGNOSPHERE may opt out of the arbitration procedures described above. If you do so, neither you nor COGNOSPHERE can force the other to arbitrate.
 
-You or COGNOSPHERE may opt out of these arbitration procedures and pursue a Dispute in court and not by arbitration if (i) the Dispute qualifies, it may be initiated in small claims court; or (ii) YOU PROVIDE COGNOSPHERE WRITTEN NOTICE OF YOUR DESIRE TO OPT OUT OF THESE ARBITRATION PROCEDURES WITHIN 30 DAYS FROM THE DATE THAT YOU FIRST CONSENT TO THIS AGREEMENT (the "Arbitration Opt-Out Notice"). The Arbitration Opt-Out Notice must include your name and address, your in-game username and the email address you used to set up your in-game account (if you have one), and an unequivocal statement that you wish not to resolve Disputes with COGNOSPHERE through arbitration. You must mail your opt-out notice to genshin_notice@hoyoverse.com. If you do not provide COGNOSPHERE with an Arbitration Opt-Out Notice within 30 days from the date that you first consent to this Agreement, you will be deemed to have knowingly and intentionally waived your right to litigate any Dispute except as expressly set forth in clauses (i) and (ii) above.
+You or COGNOSPHERE may opt out of these arbitration procedures and pursue a Dispute in court and not by arbitration if (i) the Dispute qualifies, it may be initiated in small claims court; or (ii) YOU PROVIDE COGNOSPHERE WRITTEN NOTICE OF YOUR DESIRE TO OPT OUT OF THESE ARBITRATION PROCEDURES WITHIN 30 DAYS FROM THE DATE THAT YOU FIRST CONSENT TO THIS AGREEMENT (the "Arbitration Opt-Out Notice"). The Arbitration Opt-Out Notice must include your name and address, your in-game username and the email address you used to set up your in-game account (if you have one), and an unequivocal statement that you wish not to resolve Disputes with COGNOSPHERE through arbitration. You must mail your opt-out notice to COGNOSPHERE PTE. LTD. 405 E Laburnum Ave, Ste 3 PMB 109, Richmond, VA 23222. If you do not provide COGNOSPHERE with an Arbitration Opt-Out Notice within 30 days from the date that you first consent to this Agreement, you will be deemed to have knowingly and intentionally waived your right to litigate any Dispute except as expressly set forth in clauses (i) and (ii) above.
 
 f. Continuation. This Dispute Resolution provision shall survive the termination of your Account (if applicable), and/or your access to or use of the COGNOSPHERE Services, and/or your relationship with COGNOSPHERE.
 
@@ -405,4 +405,4 @@ If you have any questions about this Agreement or have any requests for resolvin
 
 
 COGNOSPHERE PTE. LTD.
-Effective Date: October 14, 2022
+Effective Date: December 7, 2022
