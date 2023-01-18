@@ -50,7 +50,7 @@ This Privacy Policy informs you of the following information:
 
 
 
-1.  What Data We Collect and Process
+1. What Data We Collect and Process
 
 
 
@@ -82,7 +82,9 @@ xii. Advertising Information. Advertising ID and select device information, we s
 
 xiii. Payment data .If you choose to make purchase(s) with your Account, we may need to collect your payment data in order to process your purchase(s) and related activity, which may include your name, bank/debit/credit card number, card expiration date, billing address (country, city, postal code, address), and CVV.
 
-xiv. Other Information Subject to Specific Notice. For some websites, apps, or services provided by us, we may collect additional information beyond the above listed information. We will develop individual privacy notices to inform you how we process your personal data when you use the specific services. Such individual privacy notices will prevail in terms of the personal data processed for such individual services.
+xiv. PayPal account. We will store your PayPal account information and display it as a selectable payment option so that you can use it for subsequent payments.
+
+xv. Other Information Subject to Specific Notice. For some websites, apps, or services provided by us, we may collect additional information beyond the above listed information. We will develop individual privacy notices to inform you how we process your personal data when you use the specific services. Such individual privacy notices will prevail in terms of the personal data processed for such individual services.
 
 
 
@@ -104,7 +106,7 @@ In specific cases, we may collect other personal data apart from the categories 
 
 
 
-2.  Why We Collect and Process Your Personal Data
+2. Why We Collect and Process Your Personal Data
 
 
 
@@ -539,4 +541,4 @@ To lodge a complaint with your national or regional data protection supervisory 
 
 
 COGNOSPHERE PTE. LTD.
-Last Updated: December 7 , 2022
+Last Updated: January 18 , 2023
