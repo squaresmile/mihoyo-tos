@@ -1,12 +1,12 @@
 TERMS OF SERVICE
 
-Effective Date: December 7, 2022
+Effective Date: July 5, 2023
 
 
 
 PLEASE READ THESE TERMS OF SERVICE CAREFULLY, INCLUDING OUR PRIVACY POLICY.
 
-This Terms of Service ("Agreement") is a legally binding agreement between COGNOSPHERE PTE. LTD. ("COGNOSPHERE," "we," "our," or "us") and you ("you" or "User"). This Agreement governs your use of or access to COGNOSPHERE Game(s), our online website, any game-specific site, software systems, customer support, social media, community channels and/or any other online services provided by COGNOSPHERE and by any of our authorized third party (collectively the "COGNOSPHERE Services"), whether as a guest or a registered user.
+This Terms of Service ("Agreement") is a legally binding agreement between COGNOSPHERE PTE. LTD. ("COGNOSPHERE," "we," "our," or "us") and you ("you" or "User"). This Agreement governs your use of or access to COGNOSPHERE Game(s), our online website, any game-specific site, software systems, customer support, social media, community channels and/or any other online services provided by COGNOSPHERE and by any of our authorized third party (collectively the "COGNOSPHERE Services"), whether as a guest or a Registered User (as defined below).
 
 In particular, we draw your attention to some important terms in this Agreement. By accepting this Agreement:
 
@@ -26,9 +26,9 @@ NOTE FOR PARENTS AND GUARDIANS: YOU SHOULD NEVER ALLOW CHILDREN IN YOUR CARE TO 
 
 COGNOSPHERE Game(s) include but are not limited to the software of COGNOSPHERE Game(s) (including but not limited to the whole game software and any content, component, element or feature involved therein), any patches, updates, and upgrades to the application, any related content, documentation, add-ons, supplements, any game-related services made available to you by COGNOSPHERE under this Agreement, and/or any copy of the foregoing.
 
-Please note the software of COGNOSPHERE Game(s) may contain Cheat Detection software or features. "Cheat Detection" means functionality intended to identify Cheats. "Cheats" means programs, methods, processes or other programs with software or hardware on any formats that may give users an unfair competitive advantage within COGNOSPHERE Game(s).
+Please note the software of COGNOSPHERE Game(s) may contain Cheat Detection software or features. "Cheat Detection" means functionality intended to identify Cheats. "Cheats" means programs, methods, processes or other programs with software or hardware on any formats that may give Users an unfair competitive advantage within COGNOSPHERE Game(s).
 
-If you do not agree to install the cheat detection software or at any time remove or disable the cheat detection features, alone or make combination with COGNOSPHERE Game(s), the license granted to you under this agreement automatically terminates and you should immediately stop accessing any of the COGNOSPHERE Services.
+If you do not agree to install the Cheat Detection software or at any time remove or disable the Cheat Detection features, alone or make combination with COGNOSPHERE Game(s), the license granted to you under this Agreement automatically terminates and you should immediately stop accessing any of the COGNOSPHERE Services.
 
 Please note that the COGNOSPHERE Game(s) with the Cheat Detection software therein may collect and transmit details about your account, gameplay, and any potentially unauthorized programs and processes, subject to our Privacy Policy. In the event that Cheats are identified, you agree that COGNOSPHERE may exercise part or all of its rights hereunder. You confirm that, by installing, copying, running or otherwise using the COGNOSPHERE Game(s), you agree to be bound by this Agreement.
 
@@ -48,7 +48,7 @@ To create an Account, you will be required to register as a User and accept the 
 
 b. You may establish an Account only if you are a natural person and an adult in your country of residence, and you are not an individual specifically prohibited by us from using the COGNOSPHERE Services.
 
-When you have successfully created an Account, as a registered user ("User" or "Registered User"), you need to create a username ("Nickname") to be used during your game play. You acknowledge and agree not to use a Nickname which is obscene or otherwise offensive. We are entitled (but not obliged) to filter out certain words and phrases that we consider unacceptable. Besides, while any registration process that we adopt may filter out certain unacceptable words and phrases, it can never be a comprehensive filter. Also, we reserve the right to terminate your usership or Account and have the right to require your re-registration with a new acceptable Nickname if, in our discretion, we consider that your Nickname (or its use) is offensive or otherwise breaches the user terms in any way.
+When you have successfully created an Account, as a registered user ("User" or "Registered User"), you need to create a username ("Nickname") to be used during your game play. You acknowledge and agree not to use a Nickname which is obscene or otherwise offensive. We are entitled (but not obliged) to filter out certain words and phrases that we consider unacceptable. Besides, while any registration process that we adopt may filter out certain unacceptable words and phrases, it can never be a comprehensive filter. Also, we reserve the right to terminate your usership or Account and have the right to require your re-registration with a new acceptable Nickname if, in our discretion, we consider that your Nickname (or its use) is offensive or otherwise breaches the agreement terms in any way.
 
 c. By creating a HoYoverse Account, you agree that you will:
 
@@ -56,13 +56,13 @@ c. By creating a HoYoverse Account, you agree that you will:
 
 (ii) maintain and promptly update your Personal Data and keep your Personal Data accurate, up to date, and complete.
 
-d. You acknowledge that to create an Account, you must be at least of the minimum age for consenting to personal data collection under the law in your jurisdiction and that you are an adult in your country of residence (or at other age in your jurisdiction where you are classified as above the legal age of majority) when using the COGNOSPHERE Services.
+d. You acknowledge that to create an Account, you must be at least of the minimum age for consenting to Personal Data collection under the law in your jurisdiction and that you are an adult in your country of residence (or at other age in your jurisdiction where you are classified as above the legal age of majority) when using the COGNOSPHERE Services.
 
-e. You agree to provide accurate and complete registration information, and you are not suggested to create a Nickname that reflects your real name or other personal data.
+e. You agree to provide accurate and complete registration information, and you are not suggested to create a Nickname that reflects your real name or other Personal Data.
 
 f. You shall be responsible for keeping your Account secure and confidential (including but not limited to email address, passwords or other related account information). Also, you acknowledge that you shall be responsible for any and all actions performed, using, or accessing the COGNOSPHERE Services through your Account, whether or not authorized by you.
 
-g. Each Account is unique and important to each user. You shall neither transfer or otherwise make your Account information available to third parties, nor use other user(s)' Account(s) at any time. If you sell your Account or other related information, COGNOSPHERE reserves the right to take action, including but not limited to the right to terminate your Account immediately without any refund.
+g. Each Account is unique and important to each User. You shall neither transfer or otherwise make your Account information available to third parties, nor use other User(s)' Account(s) at any time. If you sell your Account or other related information, COGNOSPHERE reserves the right to take action, including but not limited to the right to terminate your Account immediately without any refund.
 
 h. We may terminate your usership or Account at any time for any reason without any further formality if we have reason to believe that you have failed to comply with this Agreement. If your Account is so terminated, you will not be permitted to re-register as a User without our express permission. If you decide to terminate your usership or Account, please contact our support service, and we may terminate it as soon as reasonably practical after receiving your termination request.
 
@@ -110,9 +110,9 @@ d. Except as expressly authorized under this Agreement, you may not copy the COG
 
 e. Except expressly authorized herein, any use of the COGNOSPHERE Services in whole or part, without our prior written consent, is strictly prohibited and the License granted herein will be terminated. COGNOSPHERE expressly reserves the right to deny anyone access to the COGNOSPHERE Services at any time for any reason without prior notice. You further agree that COGNOSPHERE, without any liability, shall be entitled to suspend or terminate providing any of the COGNOSPHERE Services or change the provided content at any time for any reason without prior notice.
 
-f. COGNOSPHERE reserves the right, but is not obligated, to mediate, resolve, or otherwise get involved in disputes between users. While COGNOSPHERE reserves the right to take action upon being alerted or informed of inappropriate game play or communications between users made in connection with their access or use of the COGNOSPHERE Services, you are solely responsible for any interactions with other users. By using the COGNOSPHERE Services, you acknowledge and accept that at any time there may be language or material accessible on or through the COGNOSPHERE Services that may be inappropriate for children and/or offensive to users of any age, race, religion, gender. You agree that under no circumstances shall COGNOSPHERE be liable for any inappropriate user behavior or language. If COGNOSPHERE determines in its sole discretion that any inappropriate user behavior or language was made or communicated from your Account, COGNOSPHERE reserves the right to suspend or terminate your Access to the COGNOSPHERE Services and/or to take other enforcement actions as COGNOSPHERE deems necessary to safeguard its rights.
+f. COGNOSPHERE reserves the right, but is not obligated, to mediate, resolve, or otherwise get involved in disputes between Users. While COGNOSPHERE reserves the right to take action upon being alerted or informed of inappropriate game play or communications between Users made in connection with their access or use of the COGNOSPHERE Services, you are solely responsible for any interactions with other Users. By using the COGNOSPHERE Services, you acknowledge and accept that at any time there may be language or material accessible on or through the COGNOSPHERE Services that may be inappropriate for children and/or offensive to Users of any age, race, religion, gender. You agree that under no circumstances shall COGNOSPHERE be liable for any inappropriate User behavior or language. If COGNOSPHERE determines in its sole discretion that any inappropriate User behavior or language was made or communicated from your Account, COGNOSPHERE reserves the right to suspend or terminate your access to the COGNOSPHERE Services and/or to take other enforcement actions as COGNOSPHERE deems necessary to safeguard its rights.
 
-g. You further agree that COGNOSPHERE is not liable for the behavior of any other users or third parties, including but not limited to any third-parties' websites or services linked on or through the COGNOSPHERE Services.
+g. You further agree that COGNOSPHERE is not liable for the behavior of any other Users or third parties, including but not limited to any third-parties' websites or services linked on or through the COGNOSPHERE Services.
 
 
 
@@ -124,13 +124,13 @@ b. Any of the User Contributions may not be illegal, fraudulent, deceptive, obsc
 
 c. You acknowledge and agree that when you use the COGNOSPHERE Services, you have no expectation that your User Contributions will be private and COGNOSPHERE may disclose your User Contributions for any reason without prior notice.
 
-d. Any User Contributions that you post will be considered non-confidential and non-proprietary and you confirm that you irrevocably and unconditionally grant COGNOSPHERE a global, fully paid up, royalty-free, perpetual, transferable, sub-licensable and unlimited right and license to use, copy, reproduce, modify, adapt, publish, translate, create derivative works of, reformat, distribute, manufacture, sell, license, sublicense, transfer, rent, lease, transmit, communicate, publicly display, publicly perform, provide access to, or otherwise practice such User Contributions or any portion thereof, in any and all media, formats and forms, known now or hereafter devised. You understand that you shall not be entitled to claim any compensation, charges, fees, consideration, or other remuneration in connection with your User Contributions for any reason, including our exercise of the rights you grant to us in this section and that we are not obligated to exercise such granted rights. Furthermore, you agree that any such submission by you shall not create any contractual relationship between you and COGNOSPHERE. You also grant all other users, who can access to your User Contributions, the right to use, copy, modify, display, perform, create derivative works from, communicate about or otherwise distribute your User Contributions on or through the COGNOSPHERE Service without prior notice, attribution or compensation to you. Except to the extent such waiver is prohibited by law, you hereby waive the benefit of any provision of law known as "moral rights" or "droit moral" or any similar law in any country worldwide.
+d. Any User Contributions that you post will be considered non-confidential and non-proprietary and you confirm that you irrevocably and unconditionally grant COGNOSPHERE a global, fully paid up, royalty-free, perpetual, transferable, sub-licensable and unlimited right and license to use, copy, reproduce, modify, adapt, publish, translate, create derivative works of, reformat, distribute, manufacture, sell, license, sublicense, transfer, rent, lease, transmit, communicate, publicly display, publicly perform, provide access to, or otherwise practice such User Contributions or any portion thereof, in any and all media, formats and forms, known now or hereafter devised. You understand that you shall not be entitled to claim any compensation, charges, fees, consideration, or other remuneration in connection with your User Contributions for any reason, including our exercise of the rights you grant to us in this section and that we are not obligated to exercise such granted rights. You also grant all other Users, who can access to your User Contributions, the right to use, copy, modify, display, perform, create derivative works from, communicate about or otherwise distribute your User Contributions on or through the COGNOSPHERE Service without prior notice, attribution or compensation to you. Except to the extent such waiver is prohibited by law, you hereby waive the benefit of any provision of law known as "moral rights" or "droit moral" or any similar law in any country worldwide.
 
 e. You represent and warrant that the User Contributions:
 
 (i) are accurate and not fraudulent or deceptive;
 
-(ii) do not violate any rights or interests (including but not limited to intellectual property rights) of COGNOSPHERE and/or third parties. You understand that User Contributions may be copied by other users and discussed within or outside of the COGNOSPHERE Services, and if you do not have the right to submit User Contributions for such use, it may subject you to liability. Please note that COGNOSPHERE takes no responsibility and assumes no liability for any content posted by you or any third parties.
+(ii) do not violate any rights or interests (including but not limited to intellectual property rights) of COGNOSPHERE and/or third parties. You understand that User Contributions may be copied by other Users and discussed within or outside of the COGNOSPHERE Services, and if you do not have the right to submit User Contributions for such use, it may subject you to liability. Please note that COGNOSPHERE takes no responsibility and assumes no liability for any content posted by you or any third parties.
 
 f. We cannot guarantee that you will not encounter content that you consider offensive or otherwise inappropriate, and we accept no liability for any failure to remove (or delay in removing) any such content. You may, however, make complaints by accessing our support service.
 
@@ -140,7 +140,7 @@ f. We cannot guarantee that you will not encounter content that you consider off
 
 a. The application of this section is subject to the prevailing laws, regulations and all other policy(s) relating to the protection of minors in your country(s)/region(s) of residency, where applicable.
 
-b. You acknowledge that to create an Account, you must be at least of the minimum age for consenting to personal data collection under the law in your jurisdiction and that you are an adult in your country of residence (or at other age in your jurisdiction where you are classified as above the legal age of majority) when using the COGNOSPHERE Services.
+b. You acknowledge that to create an Account, you must be at least of the minimum age for consenting to Personal Data collection under the law in your jurisdiction and that you are an adult in your country of residence (or at other age in your jurisdiction where you are classified as above the legal age of majority) when using the COGNOSPHERE Services.
 
 c. To enter into this Agreement, you must be an adult of the legal age of majority in your country of residence. By accepting this Agreement, you acknowledge and affirm that you are of the legal age of majority in your country of residence and that you are legally and financially responsible for all actions using or accessing the COGNOSPHERE Services, whether or not authorized by you.
 
@@ -162,7 +162,7 @@ d. COGNOSPHERE remains the sole owner of rights, titles, and interests (includin
 
 6. User Content
 
-a. "User Content" means feedback, suggestions, comments, ideas, and/or any other information, including but not limited to software and code, that you provide, publish, or otherwise communicate directly or indirectly to COGNOSPHERE or our agents pertaining to the COGNOSPHERE Services. You confirm that you irrevocably grant COGNOSPHERE a global, irrevocable, fully paid up, royalty-free, perpetual, sub-licensable, transferable, assignable, and unlimited license, allowing COGNOSPHERE to use, disseminate, copy, modify, sub-license, translate, publish, distribute, network transmit, publicize, promote, perform, display, create derivative works, sell, offer to sell and/or otherwise use User Content for any purposes. You further confirm that any User Content provided by you hereunder may not infringe intellectual property rights, related rights and/or other proprietary or personal rights. In addition, your participation in a "test period" or a "beta version" game or activities similar in nature is governed by separate agreements, and you agree to be bound by specific rules that apply to access to such games, for example, we may limit the duration of game play and the number of users who have access to the game, and we reserve the right to modify or delete user game data. Please read these specific rules carefully, and we sincerely appreciate your participation in our beta version of the game and submission of user content.
+a. "User Content" means feedback, suggestions, comments, ideas, and/or any other information, including but not limited to software and code, that you provide, publish, or otherwise communicate directly or indirectly to COGNOSPHERE or our agents pertaining to the COGNOSPHERE Services. You confirm that you irrevocably grant COGNOSPHERE a global, irrevocable, fully paid up, royalty-free, perpetual, sub-licensable, transferable, assignable, and unlimited license, allowing COGNOSPHERE to use, disseminate, copy, modify, sub-license, translate, publish, distribute, network transmit, publicize, promote, perform, display, create derivative works, sell, offer to sell and/or otherwise use User Content for any purposes. You further confirm that any User Content provided by you hereunder may not infringe intellectual property rights, related rights and/or other proprietary or personal rights. In addition, your participation in a "test period" or a "beta version" game or activities similar in nature is governed by separate agreements, and you agree to be bound by specific rules that apply to access to such games, for example, we may limit the duration of game play and the number of Users who have access to the game, and we reserve the right to modify or delete User game data. Please read these specific rules carefully, and we sincerely appreciate your participation in our beta version of the game and submission of User Content.
 
 b. If any such right or interest in the User Content may not be licensed or transferred under any applicable laws (such as moral or other personal rights), you hereby expressly waive and agree not to assert any such rights, credit and/or claim for any compensation from COGNOSPHERE.
 
@@ -174,11 +174,11 @@ a. The COGNOSPHERE Services may include an opportunity for you to acquire virtua
 
 When you pay to obtain such Virtual Currency or Virtual Goods, you acknowledge and agree that you are obtaining or purchasing the right to have your License (as defined in Section 2 above) include such Virtual Currency and Virtual Goods. You further acknowledge and agree that neither Virtual Currency nor Virtual Goods have any monetary value whatsoever and shall not be redeemed for real money (fiat or otherwise) or any item with monetary value, and Virtual Currency and Virtual Goods are not provided for investment purposes.
 
-b. Regardless of any reference COGNOSPHERE might make outside this Agreement to purchasing or selling Virtual Currency or Virtual Goods, you acknowledge and agree that both Virtual Currency and Virtual Good(s) are licensed, not sold, to you under this Agreement. Provided that you comply with this Agreement, COGNOSPHERE grants you a personal, non-exclusive, non-transferable, non-sublicensable limited right and license to access and use the Virtual Currency and Virtual Good(s), whether paid for or otherwise obtained, solely in connection with your use of the COGNOSPHERE Services. Except as permitted under this Agreement, you may not transfer, sell, gift, exchange, trade, lease, sublicense, rent or otherwise use Virtual Currency or Virtual Goods. Any access or use of Virtual Currency or Virtual Goods not specifically permitted by this Agreement is a violation of this Agreement and may result in a termination of your Account. Except for the limited license grant described above, COGNOSPHERE reserves and retains all other right, title, interest or otherwise, in and to the Virtual Goods and Virtual Currency.
+b. Regardless of any reference COGNOSPHERE might make outside this Agreement to purchasing or selling Virtual Currency or Virtual Goods, you acknowledge and agree that both Virtual Currency and Virtual Good(s) are licensed, not sold, to you under this Agreement. Provided that you comply with this Agreement, COGNOSPHERE grants you a personal, non-exclusive, non-transferable, non-sublicensable limited right and license to access and use the Virtual Currency and Virtual Good(s), whether paid for or otherwise obtained, solely in connection with your use of the COGNOSPHERE Services. Except as permitted under this Agreement, you may not transfer, sell, gift, exchange, trade, lease, sublicense, rent or otherwise use Virtual Currency or Virtual Goods. Any access or use of Virtual Currency or Virtual Goods not specifically permitted by this Agreement is a violation of this Agreement and may result in a termination of your Account. Except for the limited license granted described above, COGNOSPHERE reserves and retains all other right, title, interest or otherwise, in and to the Virtual Goods and Virtual Currency.
 
 c. COGNOSPHERE reserves the right to modify, manage, control or eliminate Virtual Currency and/or Virtual Goods in its sole discretion. You acknowledge and agree that COGNOSPHERE may engage in actions that may impact the perceived value or purchase price, if applicable, of Virtual Currency or Virtual Goods at any time, except as otherwise required by applicable laws.
 
-d. When you provide payment information to COGNOSPHERE or its authorized processor, you represent that you are an authorized user of any payment method specified by you, and you authorize COGNOSPHERE to charge such payment method(s) for the full amount of the transaction. You acknowledge and agree that any payment for the right to have your License include Virtual Currency and/or Virtual Good(s) is non-refundable and non-transferable, except as otherwise required by applicable law or when our policy would otherwise permit. You further acknowledge and agree that you are not entitled to a refund for any Virtual Currency, except as otherwise required by applicable law. Should you have any question regarding the refund policy, please contact our customer service at genshin_cs@hoyoverse.com.
+d. When you provide payment information to COGNOSPHERE or its authorized processor, you represent that you are an authorized User of any payment method specified by you, and you authorize COGNOSPHERE to charge such payment method(s) for the full amount of the transaction. You acknowledge and agree that any payment for the right to have your License include Virtual Currency and/or Virtual Good(s) is non-refundable and non-transferable, except as otherwise required by applicable law or when our policy would otherwise permit. You further acknowledge and agree that you are not entitled to a refund for any Virtual Currency, except as otherwise required by applicable law. Should you have any question regarding the refund policy, please contact our customer service at genshin_cs@hoyoverse.com.
 
 e. You agree and acknowledge that due to the special nature of online game services, there are no transactions involving physical goods and the purchasing experience comes from the provision of a license to digital features within the online game services provided by the game manufacturer.
 
@@ -186,17 +186,17 @@ e. You agree and acknowledge that due to the special nature of online game servi
 
 8. Protection of Personal Information
 
-All the information collected from you is subject to local laws and COGNOSPHERE shall try its best efforts to protect your provided information. Please pay attention that this Agreement may be updated by us from time to time and your continued use of the COGNOSPHERE Services shall constitute your acceptance to the newly updated Agreement. Subject to any applicable laws and regulations, user has the right to request modification or deletion of your personal information after passing our review process in a required proper manner. Please see COGNOSPHERE's Privacy Policy for more information regarding the collection and use of your information.
+All the information collected from you is subject to local laws and COGNOSPHERE shall try its best efforts to protect your provided information. Please pay attention that this Agreement may be updated by us from time to time and your continued use of the COGNOSPHERE Services shall constitute your acceptance to the newly updated Agreement. Subject to any applicable laws and regulations, Users have the right to request modification or deletion of your personal information after passing our review process in a required proper manner. Please see COGNOSPHERE's Privacy Policy for more information regarding the collection and use of your information.
 
 
 
 9. Inappropriate User Behavior
 
-a. COGNOSPHERE holds you accountable for your own behavior and language, encourages you to play COGNOSPHERE Game(s) in a healthy and civilized manner, and strictly prohibits you from any improper or objectionable behavior. You are prohibited from, in any way, claiming to be our employees or disseminating false information either to COGNOSPHERE or third parties, spreading vulgar information, posting illegal websites, spam advertisements or any information or materials involving drugs or otherwise attack, threaten or insult a portion or all of the users. Any dissemination of plugins, Trojan horse programs, or any other kind of viruses is also strictly prohibited.
+a. COGNOSPHERE holds you accountable for your own behavior and language, encourages you to play COGNOSPHERE Game(s) in a healthy and civilized manner, and strictly prohibits you from any improper or objectionable behavior. You are prohibited from, in any way, claiming to be our employees or disseminating false information either to COGNOSPHERE or third parties, spreading vulgar information, posting illegal websites, spam advertisements or any information or materials involving drugs or otherwise attack, threaten or insult a portion or all of the Users. Any dissemination of plugins, Trojan horse programs, or any other kind of viruses is also strictly prohibited.
 
 b. You are prohibited from engaging in, directly or indirectly:
 
-i. vulgar expressions, coarse language, abusive behavior, verbal harassment, either towards COGNOSPHERE or other users;
+i. vulgar expressions, coarse language, abusive behavior, verbal harassment, either towards COGNOSPHERE or other Users;
 
 ii. use of any unapproved payment methods;
 
@@ -204,11 +204,11 @@ iii. use of cheating programs or other malicious game programs;
 
 iv. dissemination of information or materials that violate popular customs, religious beliefs, habits or social morality of a portion or group of the public;
 
-v. disclose, furnish, disseminate or otherwise make any of our or other users' non-public information available to third parties; and/or
+v. disclose, furnish, disseminate or otherwise make any of our or other Users' non-public information available to third parties; and/or
 
 vi. any other inappropriate behavior or language that may damage the reputation of COGNOSPHERE.
 
-c. We reserve the right, but are not obligated, to mediate, resolve, or otherwise get involved in disputes between users. Depending on the relevant situation, COGNOSPHERE may take action, including but not limited to, sending a warning, blocking communications, suspending, taking down, banning or terminating your Account temporarily or permanently, blocking logins, deleting game files or otherwise take action in our sole discretion. We reserve and maintain the final right to interpret and take action according to relevant circumstances of your inappropriate behavior.
+c. We reserve the right, but are not obligated, to mediate, resolve, or otherwise get involved in disputes between Users. Depending on the relevant situation, COGNOSPHERE may take action, including but not limited to, sending a warning, blocking communications, suspending, taking down, banning or terminating your Account temporarily or permanently, blocking logins, deleting game files or otherwise take action in our sole discretion. We reserve and maintain the final right to interpret and take action according to relevant circumstances of your inappropriate behavior.
 
 d. If you breach this Agreement or engage in any behavior whatsoever which is, in our sole discretion, an abuse and/or in violation of the spirit of the COGNOSPHERE Game(s) or is otherwise inappropriate or objectionable, we shall be entitled to, without prior notice, suspend your access to the COGNOSPHERE Services for an indefinite period of time, block your Account, terminate your access to the COGNOSPHERE Services, and/or terminate this Agreement immediately without prior notice.
 
@@ -250,7 +250,7 @@ ii. personal injury, property damage, lost profits, loss of data or any indirect
 
 iii. any interruption, suspension or termination of the COGNOSPHERE Services;
 
-iv. any bugs, viruses or similar links transmitted by third-parties on or through the COGNOSPHERE Services;
+iv. any bugs, viruses or similar links transmitted by third parties on or through the COGNOSPHERE Services;
 
 v. any programs intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any personal information of you; and/or
 
@@ -258,7 +258,7 @@ vi. any damages arising from or in connection with unexpected circumstances or o
 
 c. In no event shall COGNOSPHERE be liable to you or third parties for any indirect, incidental, punitive, special, exemplary or consequential damages (including, without limitation, loss of business, revenue, profits, use, data, or other economic advantage), however it arises, whether for breach of contract or in tort, even if COGNOSPHERE has been advised of the likelihood of such damages occurring.
 
-d. COGNOSPHERE has no control over third-party sites which you may have access, including those sites which are linked to our websites. Therefore, COGNOSPHERE is not responsible for the content or function of any other websites, and disclaims any liability for any aspects of such third-party websites via your direct access or through our websites or software functionality. The applicable service terms and privacy policies of those third-party websites shall govern your use of such websites.
+d. COGNOSPHERE has no control over third-party sites which you may have access, including those sites which are linked to our websites. Therefore, COGNOSPHERE is not responsible for the content or function of any other websites and disclaims any liability for any aspects of such third-party websites via your direct access or through our websites or software functionality. The applicable service terms and privacy policies of those third-party websites shall govern your use of such websites.
 
 e. The maximum aggregate, cumulative liability of COGNOSPHERE and our members, officers, employees, directors, consultants, affiliates, will not exceed your direct damages, if any, up to the total amount paid by you to us during the three (3) months prior to your making a claim against COGNOSPHERE. These limitations and exclusions regarding damages apply even if any remedy provided by us fails to provide adequate compensation.
 
@@ -286,7 +286,7 @@ No failure or delay on the part of COGNOSPHERE in exercising any right, power or
 
 16. Notice
 
-To the maximum extent permitted by applicable laws, COGNOSPHERE may send notices (including but not limited to various rules, notifications, prompts, or other information pertaining to the use of the COGNOSPHERE Services) to the users through one or more of the following, including but not limited to notice or announcement within the COGNOSPHERE Game(s), page announcement on the COGNOSPHERE's websites, games, official channels, website tips, mobile phone messages, email, or other contact information you provided to COGNOSPHERE.
+To the maximum extent permitted by applicable laws, COGNOSPHERE may send notices (including but not limited to various rules, notifications, prompts, or other information pertaining to the use of the COGNOSPHERE Services) to the Users through one or more of the following, including but not limited to notice or announcement within the COGNOSPHERE Game(s), page announcement on the COGNOSPHERE's websites, games, official channels, website tips, mobile phone messages, email, or other contact information you provided to COGNOSPHERE.
 
 Once any notice is dispatched or sent in any way listed above by COGNOSPHERE, it shall be deemed to have been served to you and have a binding effect on you. If you do not agree to, please inform COGNOSPHERE in writing within 15 days as of the receipt of such notice. Otherwise, it shall be deemed that you have accepted and agreed to such notice.
 
@@ -302,7 +302,7 @@ Despite the termination/expiration of this Agreement, your obligations accumulat
 
 18. Severability
 
-a. If any provision of this Agreement is held to be void or declared illegal, invalid or unenforceable for any reason whatsoever, then you and COGNOSPHERE agree that such provision will be severed and the rest of the Agreement shall remain in effect and be construed as if any severed provision had not been included. Notwithstanding the foregoing, if the Class Action Waiver set forth in Section 19(b) and Section 19A(d) is found invalid, unenforceable, or illegal, you and COGNOSPHERE agree that it will not be severable; the entire Dispute Resolution provisions set forth in Sections 19 and 19A will be void and unenforceable and any dispute will be resolved in choice subject to the venue and choice of law clauses specified in this Agreement. In other words, under no circumstances shall arbitration be conducted on a class basis without the express prior written consent of COGNOSPHERE.
+a. If any provision of this Agreement is held to be void or declared illegal, invalid or unenforceable for any reason whatsoever, then you and COGNOSPHERE agree that such provision will be severed and the rest of the Agreement shall remain in effect and be construed as if any severed provision had not been included. Notwithstanding the foregoing, if the Class Action Waiver set forth in Section 19(d) and Section 19A(c) is found invalid, unenforceable, or illegal, you and COGNOSPHERE agree that it will not be severable; the entire Dispute Resolution provisions set forth in Sections 19 and 19A will be void and unenforceable and any dispute will be resolved in choice subject to the venue and choice of law clauses specified in this Agreement. In other words, under no circumstances shall arbitration be conducted on a class basis without the express prior written consent of COGNOSPHERE.
 
 b. You and COGNOSPHERE agree that except as provided above, if an arbitrator or court of competent jurisdiction decides that any part of this Agreement is invalid or unenforceable, the remaining terms of this Agreement will remain in full force and effect.
 
@@ -316,7 +316,7 @@ Please read this section carefully. It affects your rights, including your right
 
 a. Governing Law. This Agreement shall be governed by and construed under the laws of Singapore excluding its conflict of law principles.
 
-b. Binding Individual Arbitration. You agree and acknowledge that any claims or legal actions between you and COGNOSPHERE shall be referred to Singapore International Arbitration Centre ("SIAC") for arbitration which shall be conducted in accordance with SIAC's arbitration rules. The arbitral award is final and binding upon both parties. If the above arbitration terms are not enforceable on any dispute, both parties agree that such dispute shall be brought in a court in Singapore. You hereby consent to and waive all defenses of lack of personal jurisdiction and/or forum non convenience with respect to venue and jurisdiction, whether by arbitration or judicial judgment.
+b. Binding Individual Arbitration. You agree and acknowledge that any claims or legal actions between you and COGNOSPHERE shall be referred to Singapore International Arbitration Centre ("SIAC") for arbitration which shall be conducted in accordance with SIAC's arbitration rules. The arbitral award is final and binding upon both parties. If the above arbitration terms are not enforceable on any dispute, both parties agree that such dispute shall be brought in a court in Singapore. You hereby consent to and waive all defenses of lack of personal jurisdiction and/or forum non conveniens with respect to venue and jurisdiction, whether by arbitration or judicial judgment.
 
 Notwithstanding the foregoing, each party retains the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation, or violation of a party's copyrights, trademarks, trade secrets, patents, or other intellectual property rights (an "Intellectual Property Action"), and each party reserves the right to bring an action in any court of competent jurisdiction to stop and/or seek compensation for the intentional or willful misuse or abuse (e.g. hacking or falsifying location) of their intellectual property.
 
@@ -338,7 +338,7 @@ You have the right to opt-out of this Dispute Resolution provision, as explained
 
 For the purposes of this Agreement, including this Dispute Resolution provision specifically, "Dispute" means any dispute, claim or controversy between you and COGNOSPHERE regarding any aspect of your relationship with COGNOSPHERE, including those arising out of this Agreement or otherwise based in contract, statute, regulation, ordinance, tort (including but not limited to fraud, misrepresentation, fraudulent inducement, or negligence), or any other legal or equitable theory, and includes the validity, enforceability, and/or scope of this Disputes Resolution provision, except as it applies to the enforceability of the Class Action Waiver set forth below. "Dispute" is to be given the broadest possible meaning that will be enforced.
 
-a. Binding Individual Arbitration. If you live in the United States of America, you and COGNOSPHERE agree that, except as provided in subsection (f) below ("Opt-Out"), any and all Disputes, including their arbitrability, will be resolved exclusively and finally by binding arbitration rather than in a court, in accordance with this provision. You and COGNOSPHERE further agree that you are waiving your right to a trial by jury or to a trial before a judge in a public court. By accepting this Agreement, you acknowledge and agree that other rights you may have if you went to court, such as the right to appeal and the right to obtain certain types of discovery, may be more limited or may also be waived.
+a. Binding Individual Arbitration. If you live in the United States of America, you and COGNOSPHERE agree that, except as provided in subsection (e) below ("Opt-Out"), any and all Disputes, including their arbitrability, will be resolved exclusively and finally by binding arbitration rather than in a court, in accordance with this provision. You and COGNOSPHERE further agree that you are waiving your right to a trial by jury or to a trial before a judge in a public court. By accepting this Agreement, you acknowledge and agree that other rights you may have if you went to court, such as the right to appeal and the right to obtain certain types of discovery, may be more limited or may also be waived.
 
 The arbitration shall be administered by the American Arbitration Association ("AAA") under its Consumer Arbitration Rules ("AAA Rules") and the governing law of the arbitration shall be governed by the laws of the State of your residence. Unless otherwise agreed, the arbitration shall be conducted in a confidential manner.
 
@@ -350,7 +350,7 @@ b. Informal Resolution. You agree that in the event of any Dispute, COGNOSPHERE 
 
 In the event that any such Dispute cannot be resolved informally, you agree that the Dispute, including any question regarding the arbitrability of the Dispute, shall be finally and exclusively resolved by binding arbitration in accordance with subsection (a) of Section 19A above.
 
-c. Class Action Waiver. You agree that each party may only bring claims against the other solely in their individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding in any jurisdiction. Further, if the parties' Dispute is resolved through arbitration, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding, including but not limited to a class action, consolidated action, or private attorney general action, unless both COGNOSPHERE and you specifically agree in writing to do so following initiation of the arbitration. All claims and Disputes within the scope of this individual arbitration agreement must be arbitrated or litigated on an individual class basis. Claims of more than one customer or user cannot be arbitrated or litigated jointly or consolidated with those of any other customer or user. Notwithstanding any other provision of this Agreement, this Dispute Resolution provision, or the AAA Rules, Disputes regarding the interpretation, applicability, or enforceability of this waiver may be resolved only by a court and not by an arbitrator. This specific provision is found to be unenforceable, then the entirety of this Dispute Resolution Provision contained in Section 19A shall be null and void.
+c. Class Action Waiver. You agree that each party may only bring claims against the other solely in their individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding in any jurisdiction. Further, if the parties' Dispute is resolved through arbitration, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding, including but not limited to a class action, consolidated action, or private attorney general action, unless both COGNOSPHERE and you specifically agree in writing to do so following initiation of the arbitration. All claims and Disputes within the scope of this individual arbitration agreement must be arbitrated or litigated on an individual class basis. Claims of more than one customer or User cannot be arbitrated or litigated jointly or consolidated with those of any other customer or User. Notwithstanding any other provision of this Agreement, this Dispute Resolution provision, or the AAA Rules, Disputes regarding the interpretation, applicability, or enforceability of this waiver may be resolved only by a court and not by an arbitrator. This specific provision is found to be unenforceable, then the entirety of this Dispute Resolution Provision contained in Section 19A shall be null and void.
 
 d. Right to Waive. Any rights and limitations set forth in this Dispute Resolution provision may be waived by the party against whom the claim is asserted. Such waiver will not waive or affect any other portion of this Agreement.
 
@@ -392,7 +392,9 @@ f. You agree that COGNOSPHERE expressly reserves the right, at any time for any 
 
 g. You represent that you are entering into this Agreement on a completely voluntary basis and you expect no compensation other than what is expressly granted under this Agreement.
 
-h. In case of any inconsistency between this Agreement and local laws of your country or residence, local laws shall prevail and govern.
+h. All attachments attached hereto to this Agreement shall be incorporated into and forms part of this Agreement and correctly states the rights and obligations of each party as of the Effective Date.
+
+i. In case of any inconsistency between this Agreement and local laws of your country or residence, local laws shall prevail and govern.
 
 
 
@@ -402,7 +404,47 @@ If you have any questions about this Agreement or have any requests for resolvin
 
 
 
+23. Supplemental Terms
+
+If you are accessing or using COGNOSPHERE Services through a PlayStation® platform, the following Supplemental Terms are applicable to you:
+
+You may access COGNOSPHERE Services by signing in to your account for PlayStation™Network. COGNOSPHERE will then allocate a HoYoverse Account to you and link said Account to your account for PlayStation™Network.
+
+A. For Purchases in PlayStation™Store in Europe
+
+Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited ("SIENE") and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
+
+B. For Purchases in PlayStation™Store in North America
+
+Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
+
+
+
+Attachment: Additional Terms for Residents of the European Union (EU) and the United Kingdom of Great Britain and Northern Ireland (UK)
+
+THIS SECTION APPLIES TO ALL CONSUMERS AND PERSONS WHO ARE RESIDENTS OF THE EU AND THE UK.
+
+Right of withdrawal
+
+You have the right to withdraw from the purchase of a Virtual Currency or a Virtual Good anytime within 14 days from the day of purchase without giving any reason by contacting our customer service at genshin_cs@hoyoverse.com and informing us that you wish to withdraw the purchase.
+
+However, your right to withdraw will be lost once the content or service has been fully provided upon your request. If you request immediate delivery of any content that you purchase, you will have agreed upon purchase that your right of withdrawal will expire once the content is made available to you. For any service for which you request immediate delivery, you will have agreed upon purchase that your right of withdrawal will expire when all services are provided, and that in any case, you will not be reimbursed for any service that has already been provided to you. Otherwise, we will reimburse you all relevant payments without undue delay and within 14 days of your decision to withdraw using the same means of payment as you used for the purchase.
+
+You may also use the following model form, but it is not obligatory.
+
+To COGNOSPHERE PTE. LTD., 1 One-North Crescent, #06-01/02, Razer Sea HQ, Singapore 138538, with genshin_cs@hoyoverse.com:
+
+I hereby give notice that I withdraw from my contract for the provision of the following purchase [identify your purchase] ordered on [date of purchase].
+
+[insert your name, address and user ID]
+
+Signature (only if this form is notified on paper)
+
+[insert date]
+
+
+
 
 
 COGNOSPHERE PTE. LTD.
-Effective Date: December 7, 2022
+Effective Date: July 5, 2023
